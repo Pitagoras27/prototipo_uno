@@ -3,7 +3,9 @@
 ?>
 
 <div class="container">
-    <h1>Estudios de mercado</h1>
+    <div class="col-md-8">
+        <h1>Estudios de mercado</h1>
+    </div>
 </div>
 
 <?php
