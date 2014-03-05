@@ -54,6 +54,7 @@
 </div>    
 
 
+
 <?php
 $contenido = ob_get_clean();
 include 'layout.php';
