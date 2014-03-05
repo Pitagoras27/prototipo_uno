@@ -40,7 +40,7 @@
                 <img src="imgs/llamenos.png" class="img-responsive" />
             </div>
             
-            <h2 class="call-to-action"><span>Aprovecha esta oportunidad </span><br />HOY MISMO !!</h2>
+            <h2 class="call-to-action"><span>Aprovecha esta oportunidad </span><br />HOY MISMO !!</h2> 
             <?php formulario__rapido('30px'); ?>
         </div>
         
